@@ -1,168 +1,168 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://dev-iron.github.io/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/categories/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/archives/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/about/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/posts/DesignPattern_post/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/posts/Cohesion-Coupling_post/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/posts/REST_post/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/posts/JSP02_post/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/posts/JSP01_post/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/posts/Java01_post/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/posts/CS(Web)_post/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/posts/First_post/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/cs/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/jsp/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/servlet/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/cohesion/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/coupling/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/design-pattern/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/github-bolg/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/java/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/module/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/rest-api/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/categories/cs/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/categories/github-bolg/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/categories/jsp/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/categories/java/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/categories/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/rest/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/restful/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/sowftware/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/was/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://dev-iron.github.io/tags/web/</loc>
-    <lastmod>2024-08-04T20:01:11+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<url>
+<loc>https://dev-iron.github.io/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/categories/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/archives/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/about/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/posts/DesignPattern_post/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/posts/Cohesion-Coupling_post/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/posts/REST_post/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/posts/JSP02_post/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/posts/JSP01_post/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/posts/Java01_post/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/posts/CS(Web)_post/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/posts/First_post/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/cs/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/jsp/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/servlet/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/cohesion/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/coupling/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/design-pattern/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/github-bolg/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/java/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/module/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/rest-api/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/categories/cs/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/categories/github-bolg/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/categories/jsp/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/categories/java/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/categories/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/rest/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/restful/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/sowftware/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/was/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://dev-iron.github.io/tags/web/</loc>
+<lastmod>2024-08-04T20:01:11+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>
