@@ -1,5 +1,5 @@
 ---
-title: 디자인 패턴 이란?
+title: 디자인 패턴 (Design Pattern) 이란?
 date: 2024-08-03 20:00:00 +09:00
 categories: [CS]
 tags: [cs, design pattern]     # TAG names should always be lowercase

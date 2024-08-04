@@ -9,6 +9,9 @@ tags: [cs, sowftware, module, cohesion, coupling]     # TAG names should always 
 
 
 ## 소프트웨어의 모듈 독립성
+- - -
+소프트웨어의 모듈 독립성은 각 모듈이 독립적으로 개발, 테스트, 유지보수될 수 있는 능력을 의미합니다. 이는 모듈 간의 의존성을 줄여 소프트웨어의 안정성, 확장성, 유지보수성을 높여줍니다. 독립적인 모듈은 수정이나 교체가 쉬워 전체 시스템에 영향을 최소화합니다.
+
 
 <br>
 
@@ -21,12 +24,6 @@ tags: [cs, sowftware, module, cohesion, coupling]     # TAG names should always 
 **모듈 (Module) 이란?**  
 - - -
 모듈은 소프트웨어 시스템을 구성하는 독립적인 단위입니다. 모듈은 특정 기능을 수행하며, 다른 모듈과의 인터페이스를 통해 상호작용합니다. 모듈화는 소프트웨어 개발과 유지보수를 용이하게 하기 위해 사용됩니다.
-
-<br>
-
-**소프트웨어 모듈 독립성이란?**  
-- - -
-소프트웨어 모듈 독립성은 각 모듈이 독립적으로 개발, 테스트, 유지보수될 수 있는 정도를 나타냅니다. 모듈 독립성이 높을수록 모듈 간의 상호 의존성이 낮아지고, 이는 모듈을 쉽게 수정하거나 교체할 수 있게 합니다.
 
 <br>
 
@@ -69,7 +66,7 @@ tags: [cs, sowftware, module, cohesion, coupling]     # TAG names should always 
 ## 결합도 단계
 - - -
 
-<br>  
+<br>  /Users/sooncheol/Desktop/+/Develop/Dev-Iron.github.io/
 ![Coupling](/assets/img/Coupling.png)
 <br>  
 <br>   
