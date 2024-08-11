@@ -1,8 +1,8 @@
 ---
 title: 디자인 패턴 (Design Pattern) 이란?
 date: 2024-08-03 20:00:00 +09:00
-categories: [CS]
-tags: [cs, design pattern]     # TAG names should always be lowercase
+categories: [소프트웨어 공학]
+tags: [cs, design pattern, se]     # TAG names should always be lowercase
 ---
 
 안녕하세요. 오늘은 디자인 패턴에 대해 정보를 기록해보겠습니다.

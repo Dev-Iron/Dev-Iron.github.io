@@ -123,10 +123,26 @@
     gtag("config", "G-9NN887KZDX");
   </script>
 
-  !-- Google Addsence -->
+  <!-- Google Addsence -->
   <script
     async
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5359179488309873"
     crossorigin="anonymous"
   ></script>
+
+  <!-- JavaScript를 이용한 마우스 우클릭 방지 -->
+  <script type="text/javascript">
+    document.addEventListener("contextmenu", function (e) {
+      e.preventDefault();
+    });
+  </script>
+
+  <!-- HTML 소스 보기 방지 -->
+  <script type="text/javascript">
+    document.onkeydown = function (e) {
+      if (e.ctrlKey && (e.keyCode === 85 || e.keyCode === 83)) {
+        return false;
+      }
+    };
+  </script>
 </head>

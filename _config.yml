@@ -229,5 +229,5 @@ jekyll-archives:
 google_analytics:
   id: G-9NN887KZDX
 
-  plugins:
-    - jekyll-sitemap
+plugins:
+  - jekyll-sitemap

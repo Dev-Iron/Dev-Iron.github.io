@@ -1,8 +1,8 @@
 ---
 title: 결합도(Coupling) 와 응집도(Cohesion)
 date: 2024-08-03 20:00:00 +09:00
-categories: [CS]
-tags: [cs, sowftware, module, cohesion, coupling]     # TAG names should always be lowercase
+categories: [소프트웨어 공학]
+tags: [cs, se ,sowftware, module, cohesion, coupling]     # TAG names should always be lowercase
 ---
 
 안녕하세요. 오늘은 소프트웨어의 모듈 독립성과 결합도, 응집도에 대해 정보를 기록해보겠습니다.
