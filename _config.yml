@@ -19,7 +19,7 @@ title: Dev-Iron # the main title
 tagline: 정보를 기록하기 위한 개발일지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Dev-Iron의 정보를 기록하기 위한 개발일지 기록소.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
