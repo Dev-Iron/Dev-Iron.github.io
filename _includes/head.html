@@ -23,15 +23,14 @@
   {%- capture seo_tags -%} {% seo title=false %} {%- endcapture -%}
 
   <!-- Setup Open Graph image -->
-
   {% if page.image %} {% assign src = page.image.path | default: page.image %}
   {% unless src contains '://' %} {%- capture img_url -%} {% include
-  media-url.html src=src subpath=page.media_subpath absolute=true %} {%-
+  media-url.html src=src subpath=page.media_subpath absolute=true %} {%
   endcapture -%} {%- capture old_url -%}{{ src | absolute_url }}{%- endcapture
   -%} {%- capture new_url -%}{{ img_url }}{%- endcapture -%} {% assign seo_tags
   = seo_tags | replace: old_url, new_url %} {% endunless %} {% elsif
   site.social_preview_image %} {%- capture img_url -%} {% include media-url.html
-  src=site.social_preview_image absolute=true %} {%- endcapture -%} {%- capture
+  src=site.social_preview_image absolute=true %} {% endcapture -%} {%- capture
   og_image -%}
   <meta property="og:image" content="{{ img_url }}" />
   {%- endcapture -%} {%- capture twitter_image -%}
@@ -44,7 +43,7 @@
   seo_tags }}
 
   <title>
-    {%- unless page.layout == 'home' -%} {{ page.title | append: ' | ' }} {%-
+    {%- unless page.layout == 'home' -%} {{ page.title | append: ' | ' }} {%
     endunless -%} {{ site.title }}
   </title>
 
@@ -83,7 +82,6 @@
   />
 
   <!-- 3rd-party Dependencies -->
-
   {% if site.toc and page.toc %}
   <link
     rel="stylesheet"
@@ -104,7 +102,6 @@
   {% endif %}
 
   <!-- JavaScript -->
-
   {% unless site.theme_mode %} {% include mode-toggle.html %} {% endunless %} {%
   include metadata-hook.html %}
 
@@ -119,11 +116,10 @@
       dataLayer.push(arguments);
     }
     gtag("js", new Date());
-
     gtag("config", "G-9NN887KZDX");
   </script>
 
-  <!-- Google Addsence -->
+  <!-- Google Adsense -->
   <script
     async
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5359179488309873"
